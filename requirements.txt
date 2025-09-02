@@ -1,0 +1,7 @@
+pandas
+polars
+nicegui
+fastexcel
+requests
+openpyxl
+pdfplumber
